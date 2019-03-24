@@ -1,0 +1,6 @@
+# Possible Moves
+# Implied Row
+#Last number
+# Implied Column
+# Last in row
+# Last in square
